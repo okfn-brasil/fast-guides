@@ -1,5 +1,8 @@
 # fast-guides
-Guias rápidos para a utilização de projetos e ferramentas da comunidade OKBR
+Guias rápidos para a utilização de projetos e ferramentas da comunidade OKBR.
+
+Estão todos listados em https://okfn-brasil.github.io/fast-guides/
+
 
 ## Adicionar um novo Guia
 
