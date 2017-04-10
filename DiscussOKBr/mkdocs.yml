@@ -1,0 +1,4 @@
+site_name: DiscussOKBr
+pages:
+    - Home: guia.md
+    - Participando: participando.md

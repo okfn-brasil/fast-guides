@@ -1,7 +1,7 @@
-# fast-guides
-Guias rápidos para a utilização de projetos e ferramentas da comunidade OKBR.
+# mini-guias
+*Guias rápidos* para a utilização de projetos e ferramentas da comunidade OKBR.
 
-Estão todos listados em https://okfn-brasil.github.io/fast-guides/
+Estão todos **listados em https://okfn-brasil.github.io/mini-guias/**
 
 
 ## Adicionar um novo Guia
@@ -16,3 +16,8 @@ Supondo ambinete UBUNTU 16 LTS
 6. `git add`  e ` git push`  de tudo o que fez...
 7. espera 2 minutos o git preparar o site... pronto: a nova documentação está na URL `https://okfn-brasil.github.io/fast-guides/NovoGuia123/site/`  <br/>(para não esquecer inclua a URL no index.html do projeto)
 
+## Entendendo a proposta
+
+A maioria das ferramentas e ambientes de participação da OKBR e da OK-Network requerem uma certa familiarização.
+
+Um Mini-guia é um documento com instruções, senvindo tanto para "quebrar o gelo" e acolher quem quer dar seus primeiros passos com um pouco mais de segurança, como suprir demandas de tradução para o português de *fast guides*  já existentes.
