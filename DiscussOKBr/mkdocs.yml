@@ -1,4 +1,4 @@
 site_name: DiscussOKBr
 pages:
-    - Home: guia.md
+    - Home: index.md
     - Participando: participando.md
