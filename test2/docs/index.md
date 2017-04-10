@@ -1,4 +1,4 @@
-# Welcome to MkDocs - TEST2
+# Miniguia TEST2
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
