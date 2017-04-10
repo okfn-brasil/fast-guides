@@ -1,10 +1,11 @@
-# mini-guias
+# miniguias
+
 *Guias rápidos* para a utilização de projetos e ferramentas da comunidade OKBR.
 
-Estão todos **listados em https://okfn-brasil.github.io/mini-guias/**
+Estão todos **listados em https://okfn-brasil.github.io/miniguia/**
 
 
-## Adicionar um novo Guia
+## Adicionar um novo Miniguia
 
 Supondo ambinete UBUNTU 16 LTS
 
@@ -18,6 +19,6 @@ Supondo ambinete UBUNTU 16 LTS
 
 ## Entendendo a proposta
 
-A maioria das ferramentas e ambientes de participação da OKBR e da OK-Network requerem uma certa familiarização.
+A maioria das ferramentas e ambientes de participação da OKBR requerem uma certa familiarização.
 
-Um Mini-guia é um documento com instruções, senvindo tanto para "quebrar o gelo" e acolher quem quer dar seus primeiros passos com um pouco mais de segurança, como suprir demandas de tradução para o português de *fast guides*  já existentes.
+Um *miniguia* é um documento com instruções, servindo tanto para "quebrar o gelo" e acolher quem quer dar os seus primeiros passos com um pouco mais de segurança, como para suprir as demandas de tradução de *fast guides* já existentes.
