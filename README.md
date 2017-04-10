@@ -2,7 +2,7 @@
 
 *Guias rápidos* para a utilização de projetos e ferramentas da comunidade OKBR.
 
-Estão todos **listados em https://okfn-brasil.github.io/miniguia/**
+Estão todos **listados em https://okfn-brasil.github.io/miniguias/**
 
 
 ## Adicionar um novo Miniguia
