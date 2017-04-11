@@ -2,3 +2,5 @@ site_name: DiscussOKBr
 pages:
     - Home: index.md
     - Participando: participando.md
+theme_dir: ../okbr_theme
+
