@@ -23,7 +23,7 @@ Não precisa ser associado da OKBR, nem preencher longos formulários.  
 O site da OKBr apresenta em todas as páginas uma barra superior com
 ícones, clique no primeiro, que é o ícone do DiscussOKBr.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](assets/passo1-linkBlog.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](assets/nav1.png)
 
 **Pelo próprio Discuss:**
 
