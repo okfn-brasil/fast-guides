@@ -80,20 +80,92 @@
         <li class="main active"><a href="#participando">Participando</a></li>
             <li><a href="#participando-de-leve">Participando de leve...</a></li>
             <li><a href="#enfim-participando">Enfim, participando!</a></li>
+            <li><a href="#marcas-especiais-ao-editar">Marcas especiais ao editar</a></li>
+            <li><a href="#demais-recursos-de-edicao-em-outros-guias">Demais recursos de edição em outros guias</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
 <h1 id="participando">Participando</h1>
-<p>... precisa estar logado...</p>
+<p>Para participar das discussções da OKBR é  preciso estar <a href="..#logando">logado</a>.</p>
 <h2 id="participando-de-leve">Participando de leve...</h2>
-<p>Assim como no Medium, Facebook, etc. o ambiente não deixa de oferecer os <em>Like's</em>, que são de fato um importante recurso para manter uma chama de vida em meio ao conteúdo estático dos posts. <strong>Importante</strong>: o significado usual do like nas discussões do DiscussOKBr (e do discuss geral) é <em>"eu endosso esse comentário"</em>.</p>
+<p>Assim como no Medium, Facebook, etc. o ambiente não deixa de oferecer os <em>Like's</em>, 
+que são de fato um importante recurso para manter uma chama de vida em meio ao conteúdo estático dos posts. </p>
+<p><strong>Importante</strong>: o significado usual do like nas discussões do DiscussOKBr (e do Discuss geral) é <em>"eu endosso esse comentário"</em>.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="" src="../assets/participa1-likes.png" /></p>
-<p>Também, ocasionalmente, surgem pesquisas de opinião, que são posts de tópico ou de resposta</p>
+<p>Ocasionalmente, surgem pesquisas de opinião (<em>voting pools</em>), no corpo do tópico ou de alguma das respostas. Basta clicar na opção e votar.</p>
 <h2 id="enfim-participando">Enfim, participando!</h2>
-<p>editar ... siga o</p>
+<p>O fundamental é editar, redigir seu texto para criar tópicos ou respostas. A caixa de texto é simples, é só digitar:</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="" src="../assets/collapse-expand-editor-1.gif" /></p>
-<p>http://commonmark.org/help/</p></div>
+<p>Usando a barra de comandos de formatação vai perceber que ela cria "marcas" como circundar a palavra com o caracter <code>_</code> para obter itálicos. No exemplo ilustrado "love" sem itálico se torna "<em>love</em>" com itálicos no lado direito, que é a versão renderizada (decorada) do texto.</p>
+<h2 id="marcas-especiais-ao-editar">Marcas especiais ao editar</h2>
+<p>As marcas de texto são um recurso simples e padronizado de formatação que evita que se copie/cole "sujeira" e permite que mesmo máquinas antigas e celulares possam executar todos os comandos de edição, assim como apresentar seu texto no layout esperado. 
+O padrão de marcação é o mesmo que o utilizado nos <a href="https://github.com/okfn-brasil">projetos OKBR</a>, chama-se <strong><em>Markdown</em></strong>.</p>
+<p>O ideal é ler este manual enquanto edita pois é muito simples e tentar simplesmente já é um treino. Elementos básicos:</p>
+<table>
+<thead>
+<tr>
+<th>Digite</th>
+<th>Layout resultante</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>*Italico*</code></td>
+<td><em>Italico</em></td>
+</tr>
+<tr>
+<td><code>**Negrito**</code></td>
+<td><strong>Negrito</strong></td>
+</tr>
+<tr>
+<td><code>Um parágrafo.</code></td>
+<td>Um parágrafo.</td>
+</tr>
+<tr>
+<td><code>Um parágrafo após uma linha em branco.</code><br/><code>Um parágrafo.</code></td>
+<td>Um parágrafo após uma linha em branco. Um parágrafo.</td>
+</tr>
+<tr>
+<td><code>Um parágrafo após uma linha em branco.</code><br/><code>Um parágrafo.</code><br/><br/><code>Outro parágrafo após uma linha em branco.</code></td>
+<td><p>Um parágrafo após uma linha em branco. Um parágrafo.</p> <p>Outro parágrafo após uma linha em branco</p></td>
+</tr>
+<tr>
+<td><code># Título 1</code></td>
+<td><h1>Título 1</h1></td>
+</tr>
+<tr>
+<td><code>## Título 2</code></td>
+<td><h2>Título 2</h2></td>
+</tr>
+<tr>
+<td><code>### Título 3</code></td>
+<td><h3>Título 3</h3></td>
+</tr>
+<tr>
+<td><code>[Link](http://br.okfn.org)</code></td>
+<td><a href="http://br.okfn.org">Link</a></td>
+</tr>
+<tr>
+<td><code>* Item de lista após linha em branco</code><br/><code>* Item de lista</code><br/><code>* Item de lista</code></td>
+<td><ul><li>Item de lista após linha em branco</li><li>Item de lista</li><li>Item de lista</li></ul></td>
+</tr>
+<tr>
+<td><code>1. Item numerado após linha em branco</code><br/><code>2. Item numerado</code><br/><code>3. Item numerado</code></td>
+<td><ol><li>Item numerado após linha em branco</li><li>Item numerado</li><li>Item numerado</li></ol></td>
+</tr>
+</tbody>
+</table>
+<h2 id="demais-recursos-de-edicao-em-outros-guias">Demais recursos de edição em outros guias</h2>
+<p>Detalhes sobre a edição de tabelas, imagens, etc. </p>
+<ul>
+<li><a href="http://commonmark.org/help/">Commom Mark - Commomark</a></li>
+<li><a href="https://blog.ghost.org/markdown/">ghost.org/markdown</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Markdown">Markdown na Wikipedia</a></li>
+<li><a href="https://help.github.com/articles/basic-writing-and-formatting-syntax/">Guia básico do Github</a></li>
+<li><a href="https://help.github.com/categories/writing-on-github/">Mais um Guia Rápido</a></li>
+<li><a href="https://github.github.com/gfm/">Guia total e completo do Github</a></li>
+</ul></div>
         </div>
 
         <footer class="col-md-12">

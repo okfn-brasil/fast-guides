@@ -7,11 +7,11 @@ organizado por assuntos (tópicos), e onde os participantes de cada discussão s
 identificam e podem se expressar de forma mais rica e aprofundada,
 fazendo uso de texto formatado, imagens, links, etc.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](assets/tela1-entrando-380px.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [discuss.okfn.org/c/local-groups/okbr](https://discuss.okfn.org/c/local-groups/okbr) = DiscussOKBr<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](assets/tela1-entrando-380px.png)
 
 É um espaço dentro do internacional [Discuss.OKFN.org](https://discuss.okfn.org/),
 onde escrevemos em português e os tópicos são relativos ao Brasil e à OKBr.
-
 Qualquer pessoa pode se cadastrar e participar!
 Não precisa ser associado da OKBR, nem preencher longos formulários.  
 
