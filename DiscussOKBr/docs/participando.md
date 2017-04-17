@@ -4,12 +4,11 @@ Para participar das discussções da OKBR é  preciso estar [logado](index.md#lo
 
 ## Participando de leve...
 
-Assim como no Medium, Facebook, etc. o ambiente não deixa de oferecer os *Like's*, 
-que são de fato um importante recurso para manter uma chama de vida em meio ao conteúdo estático dos posts. 
+<img style="float: right;" src="https://okfn-brasil.github.io/miniguias/DiscussOKBr/site/assets/participa1-likes.png">
+
+Assim como no Medium, Facebook, etc. o ambiente não deixa de oferecer os *Like's*,  para manter uma chama de vida em meio ao conteúdo estático dos *posts*. 
 
 **Importante**: o significado usual do like nas discussões do DiscussOKBr (e do Discuss geral) é *"eu endosso esse comentário"*.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](assets/participa1-likes.png)
 
 Ocasionalmente, surgem pesquisas de opinião (*voting pools*), no corpo do tópico ou de alguma das respostas. Basta clicar na opção e votar.
 
