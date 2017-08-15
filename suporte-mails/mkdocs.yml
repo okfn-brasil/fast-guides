@@ -1,0 +1,7 @@
+site_name: emails-OKBr
+pages:
+    - Home: index.md
+    - No Gmail OKBr: conf-gmail-okbr.md
+    - No Outlook: conf-localOutlook.md
+    - No GMail final: conf-gmailfinal.md
+theme_dir: ../okbr_theme
