@@ -2,5 +2,6 @@ site_name: DiscussOKBr
 pages:
     - Home: index.md
     - Participando: participando.md
+    - Apresente-se: apresentacao.md
 theme_dir: ../okbr_theme
 
