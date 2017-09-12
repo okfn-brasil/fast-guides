@@ -1,0 +1,6 @@
+site_name: nomes-OKBr
+pages:
+    - Home: index.md
+    - OKBr: ok.org.br.md
+    - Outros: outros.md
+theme_dir: ../okbr_theme
