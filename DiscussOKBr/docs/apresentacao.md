@@ -30,15 +30,15 @@ ou usar o formulário e o texto de apresentação de forma mais ampla, até com 
 
 ## Apresente-se em tópicos onde queira interagir
 
-Existem "tópicos genéricos" de discussão, que recebem a tag "home" para sinalizar que são a porta de entrada. Alguns exemplos:
+Existem "tópicos genéricos" de discussão, que recebem a tag "[home-pt](https://discuss.okfn.org/tags/home-pt)" para sinalizar que são a porta de entrada (em português). Alguns exemplos:
 
-* OK International, para apresentar-se à comunidade OK internacional (em inglês), http://discuss.ok.org.br/73
+* OK International, para apresentar-se à comunidade OK internacional (em inglês), [discuss.ok.org.br/73](http://discuss.ok.org.br/73)
 
-* Projeto Gastos Abertos, para apresentar-se à comunidade do projeto, http://discuss.ok.org.br/1359
+* Projeto Gastos Abertos, para apresentar-se à comunidade do projeto, [discuss.ok.org.br/1359](http://discuss.ok.org.br/1359)
 
-* Educação Aberta, para postar sua discussão inicial, informes, etc. http://discuss.ok.org.br/2778
+* Educação Aberta, para postar sua discussão inicial, informes, etc. [discuss.ok.org.br/2778](http://discuss.ok.org.br/2778)
 
-* Canal Medium OKBR, para discutir artigos do canal, http://discuss.ok.org.br/5849
+* Canal Medium OKBR, para discutir artigos do canal, [discuss.ok.org.br/5849](http://discuss.ok.org.br/5849)
 
 
 Alguns são apenas para apresentações, outros são um ponto de partida, outros ainda são uma espécie de blog do assnto. 
