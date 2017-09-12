@@ -52,4 +52,10 @@ Detalhes sobre a edição de tabelas, imagens, etc.
 * [Mais um Guia Rápido](https://help.github.com/categories/writing-on-github/)
 * [Guia total e completo do Github](https://github.github.com/gfm/)
 
+## Tem mais ...
+
+Fique conectado, crie tópicos, descubra novas pessoas e antigas discussões.
+
+Agora que sabe editar e interagir, [não se esqueça de se apresentar](apresentacao.md)!
+
 
